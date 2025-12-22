@@ -7,7 +7,6 @@
 ---
 
 ## 🛠 My Skills
-### 🛠 My Skills
 [![My Skills](https://skillicons.dev/icons?i=py,django,postgres,mysql,sqlite,js,html,css,git,github)](https://skillicons.dev)
 
 
