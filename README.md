@@ -1,14 +1,4 @@
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,50:0A1A2F,100:1E90FF&text=Hi%20everyone&descAlign=50&fontColor=ffffff&fontSize=50&animation=fadeIn&rotate=0&stroke=0&strokeWidth=0&descAlignY=50" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=I+am+Mohammadi,+a+Backend+Developer" alt="Typing SVG" />
-</div>
-
-
+<br> 
 
 ### . Hi! I am Mohammadi, a Backend Developer 👋
 ### . I am currently learning Django to become a real and professional Backend Developer 👨‍💻
@@ -17,7 +7,8 @@
 ---
 
 ## 🛠 My Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,django,git,github)](https://skillicons.dev)
+### 🛠 My Skills
+[![My Skills](https://skillicons.dev/icons?i=py,django,postgres,mysql,sqlite,js,html,css,git,github)](https://skillicons.dev)
 
 
 ---
