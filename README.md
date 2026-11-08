@@ -1,7 +1,8 @@
 <br> 
 
-### . Hi! I am Mohammadi, a Backend Developer 👋
-### . I am currently learning Django to become a real and professional Backend Developer 👨‍💻
+### Hi, I'm Mohammadi 👋
+### Backend Developer | Python & Django
+### Currently learning Django REST Framework 👨‍💻
 
 
 ---
@@ -18,9 +19,11 @@
 
 
 ---
-
 ## 📚 Currently Learning
-✨ Django (Advanced topics)   
-🌍 English (Beginner)
+✨ Django REST Framework
+
+## 🌍 Languages
+🗣️ Native: Persian
+🌍 English: A2
 
 ---
